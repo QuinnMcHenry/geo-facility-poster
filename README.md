@@ -6,4 +6,4 @@ this repository holds a poster which serves as an overview of findings from rese
 <br>
 
 
-![POSTER](final_poster_ds495.pdf)
+
